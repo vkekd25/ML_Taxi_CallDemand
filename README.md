@@ -2,8 +2,7 @@
 
 ## ML 기업 프로젝트
 <br>
-- ML 팀프로젝트입니다. 
-
+- ML 기업 프로젝트입니다. 
 
 ## Team_ML_Resell_Recommandation
 - **프로젝트 주제**
