@@ -17,7 +17,7 @@
 
 **Tableau 대시보드 - 행정구역(서울, 인천등) 택시 호출 수요 예측**
 
-<img width="621" height="400" alt="스크린샷 2025-03-07 오전 7 18 42" src="https://github.com/user-attachments/assets/bebb4897-0496-42b5-b282-35ff2bda6f94" />
+<img width="421" height="300" alt="스크린샷 2025-03-07 오전 7 18 42" src="https://github.com/user-attachments/assets/bebb4897-0496-42b5-b282-35ff2bda6f94" />
 
 <br>
 
