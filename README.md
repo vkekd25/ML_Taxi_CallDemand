@@ -12,9 +12,9 @@
 
 - **프로젝트 결과**
 
-**Tableau 행정구역(서울, 인천등) 예측 대시보드**
 
 <img width="621" alt="스크린샷 2025-03-07 오전 7 18 42" src="https://github.com/user-attachments/assets/ad043afb-5b86-4450-84dc-d897a27fb9ae" />
+** 행정구역(서울, 인천등) 예측 Tableau 대시보드**
 
 <br>
 
