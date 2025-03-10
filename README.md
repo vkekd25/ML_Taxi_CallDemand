@@ -6,7 +6,6 @@
 - **프로젝트 주제**
   - AI를 활용한 택시 호출 수요량 추천 서비스
 
-
 - **프로젝트 개요**
   -	택시 호출 수요 예측 모델 개발 및 최적화
   -	데이터 파이프라인 설계 및 관리: ETL 프로세스 및 자동화 구현
@@ -15,9 +14,8 @@
 
 [서비스 결과]
 
-<img width="621" alt="스크린샷 2025-03-07 오전 7 16 23" src="https://github.com/user-attachments/assets/0eb41017-1aa5-403f-87cb-b743e20af248" />
-<img width="621" alt="스크린샷 2025-03-07 오전 7 17 13" src="https://github.com/user-attachments/assets/a53f5ae0-bc3e-400f-b7bc-f93b67a61de5" />
-<img width="621" alt="스크린샷 2025-03-07 오전 7 28 48" src="https://github.com/user-attachments/assets/c0098d09-674d-4a35-900e-b5a4539b1732" />
+<img width="621" alt="스크린샷 2025-03-07 오전 7 18 42" src="https://github.com/user-attachments/assets/ad043afb-5b86-4450-84dc-d897a27fb9ae" />
+
 
 [데이터 분석 결과]
 
