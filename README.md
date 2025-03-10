@@ -19,7 +19,9 @@
 <img width="621" alt="스크린샷 2025-03-07 오전 7 18 42" src="https://github.com/user-attachments/assets/ad043afb-5b86-4450-84dc-d897a27fb9ae" />
 
 
+
 [ML 결과]
+
 mse : 0.24 → 0.08  
 r2 : 0.56 -> 0.85
 
