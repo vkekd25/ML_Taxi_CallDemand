@@ -1,7 +1,5 @@
 # ML Taxi CallDemand Forcasting
 
-- ML을 활용한 모빌리티 기업 프로젝트입니다.
-
 ## 프로젝트
 <br>
 
