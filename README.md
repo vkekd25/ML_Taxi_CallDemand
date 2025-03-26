@@ -10,7 +10,7 @@
 
 - **프로젝트 개요**
   -	섹터별 택시 호출 수요 예측 모델 개발 및 최적화
-  -	여러 DB에서 데이터를 수집하여 도메인에 따른 Feature Engineering 진행
+  -	여러 DB에서 데이터를 수집하여 택시 도메인에 따른 Feature Engineering 진행
   -	Tencent Cloud CVM과 BigQuery기반 데이터 파이프라인 설계 및 관리: ETL 프로세스 및 자동화 구현
 
 - **프로젝트 결과**
