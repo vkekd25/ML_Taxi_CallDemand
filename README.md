@@ -17,10 +17,10 @@
     
 - **프로젝트 결과**
 
-    mse : 대략 25% 감소   
-    r squared : 대략 30% 증가  
-
-    AI 기반 모델 최적화를 통해 대기 시간 감소 및 서비스 만족도 15% 향상
+      mse : 대략 25% 감소   
+      r squared : 대략 30% 증가  
+  
+      AI 기반 모델 최적화를 통해 대기 시간 감소 및 서비스 만족도 15% 향상
 
 - **References**
   - https://lightgbm.readthedocs.io/en/stable/
